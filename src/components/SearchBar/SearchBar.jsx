@@ -33,5 +33,3 @@ const SearchBar = ({ handleChangeQuery }) => {
 };
 
 export default SearchBar;
-
-// <Formik initialValues={initialValues} onSubmit={handleSubmit}>
