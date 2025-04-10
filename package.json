@@ -10,8 +10,14 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "add": "^2.0.6",
+    "axios": "^1.8.4",
+    "formik": "^2.4.6",
     "react": "^19.0.0",
-    "react-dom": "^19.0.0"
+    "react-dom": "^19.0.0",
+    "react-hot-toast": "^2.5.2",
+    "react-modal": "^3.16.3",
+    "yarn": "^1.22.22"
   },
   "devDependencies": {
     "@eslint/js": "^9.21.0",
