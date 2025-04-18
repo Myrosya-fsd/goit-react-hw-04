@@ -11,7 +11,7 @@ import ImageModal from "./ImageModal/ImageModal";
 
 function App() {
   const [images, setImages] = useState([]);
-  const [query, setQuery] = useState("");
+  const [query, setQuery] = useState("fall");
   const [page, setPage] = useState(1);
   const [isLoading, setIsLoading] = useState(false);
   const [maxPage, setMaxPage] = useState(0);
